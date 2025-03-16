@@ -1,0 +1,11 @@
+.bi{
+  display: flex;
+  align-items: center;
+}
+hr{
+  color: black;
+}
+
+.container__menu{
+  margin-top: 10px;
+}
